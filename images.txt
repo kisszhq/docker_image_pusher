@@ -6,5 +6,5 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:stable
 ollama/ollama
-guovern/ipotv-api
+guovern/iptv-api:latest
 registry.cn-shenzhen.aliyuncs.com/cp0204/dkturbo:main
