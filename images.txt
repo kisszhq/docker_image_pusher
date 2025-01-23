@@ -9,3 +9,6 @@ ollama/ollama
 guovern/iptv-api:latest
 registry.cn-shenzhen.aliyuncs.com/cp0204/dkturbo:main
 vinlic/kimi-free-api
+youshandefeiyang/allinone
+liuyong1987/fourgtv
+unilei/aipan-netdisk-search
