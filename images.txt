@@ -12,3 +12,4 @@ vinlic/kimi-free-api
 youshandefeiyang/allinone
 liuyong1987/fourgtv
 unilei/aipan-netdisk-search
+xhofe/alist
