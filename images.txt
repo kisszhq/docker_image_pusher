@@ -13,3 +13,4 @@ youshandefeiyang/allinone
 liuyong1987/fourgtv
 unilei/aipan-netdisk-search
 xhofe/alist
+chatbot-ollama:main
