@@ -13,3 +13,4 @@ youshandefeiyang/allinone
 liuyong1987/fourgtv
 unilei/aipan-netdisk-search
 xhofe/alist
+deep-research-web:latest
