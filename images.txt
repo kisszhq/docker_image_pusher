@@ -8,3 +8,4 @@ neosmemo/memos:stable
 unilei/aipan-netdisk-search
 xhofe/alist
 anotia/deep-research-web:latest
+nocodb/nocodb:latest
