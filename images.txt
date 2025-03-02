@@ -9,3 +9,4 @@ unilei/aipan-netdisk-search
 xhofe/alist
 anotia/deep-research-web:latest
 nocodb/nocodb:latest
+yidadaa/chatgpt-next-web
