@@ -4,8 +4,3 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 neosmemo/memos:stable
-unilei/aipan-netdisk-search
-xhofe/alist
-anotia/deep-research-web:latest
-nocodb/nocodb:latest
-ghcr.io/songquanpeng/one-api
