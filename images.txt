@@ -6,3 +6,5 @@
 neosmemo/memos:stable
 zeronews/zeronews
 nriver/trilium-cn
+containrrr/watchtower
+getwud/wud
