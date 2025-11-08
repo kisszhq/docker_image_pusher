@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 b3log/siyuan
 neosmemo/memos:0.21
+neosmemo/memos:0.18
