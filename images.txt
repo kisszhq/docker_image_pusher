@@ -5,3 +5,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 b3log/siyuan
 hanxi/xiaomusic:v0.3.101 
+neosmemo/memos:0.29.1
